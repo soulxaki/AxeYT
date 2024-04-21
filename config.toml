@@ -3,7 +3,7 @@ enable-magisk-update = false
 [AxeYT]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
-version = "19.11.43"
+version = "19.10.39"
 included-patches = "'Remember video quality' 'Video ads' 'Hide ads' 'Disable auto captions' 'SponsorBlock' 'Disable fullscreen ambient mode' 'Hide breaking news shelf' 'Disable suggested video end screen' 'Hide endscreen cards' 'Navigation buttons' 'Hide player buttons' 'Custom branding' 'Bypass URL redirects' 'Open links externally' 'Client spoof' 'Minimized playback' 'Remove tracking query parameter' 'Downloads' 'Swipe controls' 'Seekbar tapping' 'Disable precise seeking gesture'"
 exclusive-patches = true
 

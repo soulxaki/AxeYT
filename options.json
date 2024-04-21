@@ -1,0 +1,17 @@
+        
+[
+  {
+    "patchName": "Custom branding",
+    "options": [
+      {
+        "key": "appName",
+        "value": "AxeYT"
+      },
+      {
+        "key": "iconPath",
+        "value": "Icons"
+      }
+    ]
+  }
+]
+        

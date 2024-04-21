@@ -1,0 +1,12 @@
+enable-magisk-update = false   
+
+[AxeYT]
+build-mode = "both"
+included-patches = "'Remember video quality' 'Video ads' 'Hide ads' 'Disable auto captions' 'SponsorBlock' 'Disable fullscreen ambient mode' 'Hide breaking news shelf' 'Disable suggested video end screen' 'Hide endscreen cards' 'Navigation buttons' 'Hide player buttons' 'Custom branding' 'Bypass URL redirects' 'Open links externally' 'Client spoof' 'Minimized playback' 'Remove tracking query parameter' 'Downloads' 'Swipe controls' 'Seekbar tapping' 'Disable precise seeking gesture'"
+exclusive-patches = true
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[AxeMusic]
+build-mode = "both"
+arch = "arm64-v8a"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
